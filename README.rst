@@ -6,8 +6,18 @@ AlphaPy
 **AlphaPy** is a machine learning framework for both speculators and
 data scientists. It is written in Python mainly with the ``scikit-learn``
 and ``pandas`` libraries, as well as many other helpful
-packages for feature engineering and visualization. Here are just
-some of the things you can do with AlphaPy:
+packages for feature engineering and visualization.
+
+🚀 **AlphaPy Pro is Now Available!**
+
+**AlphaPy Pro** - the professional edition of AlphaPy - is now publicly available!
+Featuring modern Python 3.12+ support, enhanced performance, and enterprise-grade capabilities.
+
+* **Repository**: https://github.com/ScottfreeLLC/alphapy-pro
+* **Documentation**: https://scottfreellc.github.io/alphapy-pro/
+* **Installation**: ``pip install alphapy-pro``
+
+Here are just some of the things you can do with **AlphaPy (legacy)**:
 
 * Run machine learning models using ``scikit-learn``, ``Keras``, ``xgboost``, ``LightGBM``, and ``CatBoost``.
 * Generate blended or stacked ensembles.
@@ -21,10 +31,29 @@ some of the things you can do with AlphaPy:
     :alt: AlphaPy Model Pipeline
     :align: center
 
-AlphaPy Pro: Coming Soon
-------------------------
+AlphaPy Pro: Now Available!
+---------------------------
 
-https://www.scottfreellc.com/alphapy-pro
+**AlphaPy Pro** is the next generation of AlphaPy with enhanced features and modern capabilities:
+
+* **Modern Python 3.12+** support with UV package management
+* **Enhanced MarketFlow** with advanced financial ML features
+* **MetaLabeling Support** for sophisticated financial modeling
+* **NLP Features** for sentiment analysis and text processing
+* **Automated CI/CD** with GitHub Actions and PyPI publishing
+* **Comprehensive Documentation** with tutorials and examples
+
+**Quick Start with AlphaPy Pro**::
+
+    pip install alphapy-pro
+    
+**Links**:
+
+* **GitHub Repository**: https://github.com/ScottfreeLLC/alphapy-pro
+* **Documentation**: https://scottfreellc.github.io/alphapy-pro/
+* **PyPI Package**: https://pypi.org/project/alphapy-pro/
+
+**Note**: Active development has moved to AlphaPy Pro. This repository (AlphaPy) remains available for users who rely on the original version.
 
 Documentation
 -------------
